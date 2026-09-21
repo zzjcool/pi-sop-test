@@ -1,0 +1,7 @@
+# OS / editor noise
+.DS_Store
+*.swp
+*~
+
+# pi-sop transient state (lock lives in .git/, this is belt-and-braces)
+.pi-sop-lock
