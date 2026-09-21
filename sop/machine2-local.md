@@ -5,4 +5,5 @@ triggers: machine2, rebase test
 last_verified: 2026-09-21
 ---
 # Machine 2 local
-EDITED-BY-M1
+EDITED-BY-M1-AND-M2
+EDITED-BY-M2
